@@ -1,0 +1,21 @@
+body{
+    background-image: url(https://madini.com.br/wp-content/uploads/2020/06/banner-blog-Madini-Administra%C3%A7%C3%A3o-de-Estacionamento-em-campinas.png);
+    background-repeat: no-repeat;
+    background-size: 100% 110%;
+}
+#formlog{
+    text-align: left;
+    background-color:rgb(153, 255, 150);
+    border: 20px solid rgb(0, 0, 0);
+    padding: 1%;
+    width: 18% ;
+    margin: 1% 10% ;
+}
+#life{
+    text-align: left;
+    background-color:rgb(153, 255, 150);
+    border: 20px solid rgb(0, 0, 0);
+    padding: 1%;
+    width: 30% ;
+    margin: 2% 10% ;
+}
